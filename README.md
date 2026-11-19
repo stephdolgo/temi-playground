@@ -1,6 +1,6 @@
-# TemiTest
+# temi-playground
 
-A starter Android app (Kotlin + Jetpack Compose) for the [temi robot](https://www.robotemi.com/), built on the [temi SDK](https://github.com/robotemi/sdk).
+A practice Android app (Kotlin + Jetpack Compose) for the [temi robot](https://www.robotemi.com/), built on the [temi SDK](https://github.com/robotemi/sdk).
 
 ## Requirements
 
